@@ -1,4 +1,4 @@
-# Simple ES6 test environment with functioning VSC breakpoints#
+# Simple ES6 test environment with functioning VSC breakpoints
 
 
 Googling "vsc breakpoints es6 jest" will yield a wide variety of conflicting and outdated information. I am making this very simple example so that I will always have a basic test running environment when I need one. Hope it helps at least one other person.
