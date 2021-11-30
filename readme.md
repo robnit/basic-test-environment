@@ -12,4 +12,5 @@ If the `Debug` option is not showing, verify the following VSC setting exists `d
 
 ### Verified working on:
 VSC Version: 1.62.3
+
 Node.js: 14.16.0
